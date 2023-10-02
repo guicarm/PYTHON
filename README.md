@@ -10,3 +10,4 @@ ________________________________________________________________________________
 * Estruturas de repetição
 * Lista, tuplas e dicionários
 * Método de pesquisa: sequencial e binária
+* Conjuntos (Sets)
